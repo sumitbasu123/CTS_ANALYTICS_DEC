@@ -1,0 +1,16 @@
+version: 2
+
+seeds:
+  - name: lkp_division
+    config: 
+      schema: LKPDATA
+  - name: lkp_categories
+    config: 
+      schema: LKPDATA
+  - name: lkp_shippers
+    config:
+      schema: LKPDATA
+  - name: lkp_office
+    config:
+      schema: LKPDATA
+ 
